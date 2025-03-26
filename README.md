@@ -48,17 +48,17 @@ go build -o dangalplay
 
 Download a movie:
 ```sh
-./dangalplay -url https://ottapi.dangalplay.com/movies/some-movie
+./dangalplay -url https://www.dangalplay.com/movies/maa-ki-mamta
 ```
 
 Download a TV show season:
 ```sh
-./dangalplay -url https://ottapi.dangalplay.com/shows/some-show -s 1
+./dangalplay -url https://www.dangalplay.com/shows/bandini -s 1
 ```
 
 Download specific episodes:
 ```sh
-./dangalplay -url https://ottapi.dangalplay.com/shows/some-show -w S01E03-E05
+./dangalplay -url https://www.dangalplay.com/shows/bandini -w S01E03-E05
 ```
 
 ## Configuration
