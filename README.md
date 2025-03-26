@@ -17,7 +17,7 @@ DangalPlay Downloader is a command-line tool for downloading movies and TV shows
 
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/dangalplay-downloader.git
+git clone https://github.com/beenabird/dangalplay-go.git
 cd dangalplay-downloader
 ```
 
