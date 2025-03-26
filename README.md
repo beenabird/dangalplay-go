@@ -17,6 +17,6 @@ Tool for downloading content from DangalPlay streaming platform
 
 2. Build from source:
    ```bash
-   git clone https://github.com/yourusername/dangalplay-downloader
-   cd dangalplay-downloader
+   git clone https://github.com/beenabird/dangalplay-go
+   cd dangalplay-go
    go build -o dangalplay
